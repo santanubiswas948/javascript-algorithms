@@ -1,7 +1,6 @@
 /*
- This programming determine all possible sets of n items
+ This programming determine all possible sets of n items without recursive way
  Complexity: O((2^n)logn)
- This solution without recursive way
  example:
     items: n = [1,2,3,4]
     possible sets: [[], [4], [3], [4, 3], [2], [4, 2], [3, 2], [4, 3, 2], [1], [4, 1], [3, 1], [4, 3, 1], [2, 1], [4, 2, 1], [3, 2, 1], [4, 3, 2, 1]]
