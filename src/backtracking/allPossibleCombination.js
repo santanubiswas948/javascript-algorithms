@@ -1,5 +1,5 @@
 /*
-This is a programming for get all possible combination of k items from n items.
+This is a programming for get all possible combinations of k items in different order from n items.
 That is same of total number of possible combinations in order =  'permute n k' or nPk = n!/(n-k)!
 
 ->Worst Complexity: O(nPk)
