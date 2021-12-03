@@ -2,7 +2,7 @@
 This is a programming for get all possible combinations of k items in different order from n items.
 That is same of total number of possible combinations in order =  'permute n k' or nPk = n!/(n-k)!
 
-->Worst Complexity: O(nPk)
+Worst Complexity: O(nPk)
 
 For example: 
   items:  n = [1,2,3]
