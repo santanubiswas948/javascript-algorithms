@@ -1,7 +1,7 @@
 /*
 This Programming for get all possible subsets of k length from n elements
 this is same of n choose k = nCk (n Combination of k)
-Complexity:  O(2^n)
+Worst Complexity:  O((logn)*2^n)
 example:
   items: n = [1,2,3]
   if k = 2;
