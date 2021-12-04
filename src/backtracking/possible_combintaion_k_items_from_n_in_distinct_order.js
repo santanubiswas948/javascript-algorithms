@@ -4,7 +4,6 @@ This is same as total possible combinations =  nPk = n!/(n - k)!
 Complexity: O(nPk)
 example: n = [1,2,3]
 possible combinations in distinct order of k = 2 items from this n items are: ["12", "13", "21", "23", "31", "32"]
-
 */
 function backTracking(arr, currPath, allSubsets, k){
   var i = 0;
